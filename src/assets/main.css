@@ -1885,11 +1885,13 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   background: #fff;
 }
 .navbar_fixed .menu_eight .menu_toggle .hamburger-cross span,.navbar_fixed .menu_eight .menu_toggle .hamburger span{
-  background: #23b1fe;
+  /* background: #23b1fe; */
+  background:#77A1A5;
 }
 
 .menu_nine .menu > .nav-item.submenu .dropdown-menu .nav-item:hover > .nav-link, .menu_nine .menu > .nav-item.submenu .dropdown-menu .nav-item:focus > .nav-link, .menu_nine .menu > .nav-item.submenu .dropdown-menu .nav-item.active > .nav-link {
-  color: #5f51fb;
+  /* color: #5f51fb; */
+  color:#77A1A5;
 }
 
 .menu_nine .menu_toggle .hamburger-cross span, .menu_nine .menu_toggle .hamburger span {
@@ -1991,7 +1993,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   left: 0;
   margin: 4px 0;
   display: block;
-  background: #5e2ced;
+  background: #77A1A5;
   border-radius: 3px;
   -webkit-transition: .2s ease-in-out;
   -o-transition: .2s ease-in-out;
@@ -2028,7 +2030,8 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 
 .menu_toggle .hamburger-cross span {
   display: block;
-  background: #5e2ced;
+  /* background: #5e2ced; */
+  background:#77A1A5;
   border-radius: 3px;
   -webkit-transition: .2s ease-in-out;
   -o-transition: .2s ease-in-out;
@@ -2374,7 +2377,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .navbar_fixed .header_area .menu_two .menu_toggle .hamburger-cross span,.navbar_fixed .header_area .menu_two .menu_toggle .hamburger span {
-  background: #051441;
+  background:#77A1A5;
 }
 
 .navbar_fixed .header_area .menu_two .nav_right_btn .login_btn.active,.navbar_fixed .header_area .menu_two .nav_right_btn .login_btn:hover {
@@ -2415,7 +2418,8 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .navbar_fixed .header_area .menu_four .menu_toggle .hamburger span,.navbar_fixed .header_area .menu_four .menu_toggle .hamburger-cross span {
-  background: #6754e2;
+  /* background: #6754e2; */
+  background:#77A1A5;
 }
 
 .navbar_fixed .header_area .nav_right_btn .login_btn {
@@ -2434,7 +2438,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .navbar_fixed .header_area .menu_five .menu_toggle .hamburger-cross span, .navbar_fixed .header_area .menu_five .menu_toggle .hamburger span {
-  background: #3d64f4;
+  background: #77A1A5;
 }
 
 .navbar_fixed .header_area .menu_six .menu > .nav-item > .nav-link {
@@ -2450,7 +2454,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .navbar_fixed .header_area .menu_six .menu_toggle .hamburger-cross span, .navbar_fixed .header_area .menu_six .menu_toggle .hamburger span {
-  background: #3d57f4;
+  background: #77A1A5;
 }
 
 .navbar_fixed .header_area .menu_six .btn_get {
@@ -2487,7 +2491,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .header_area.navbar_fixed .menu_seven .menu_toggle .hamburger-cross span, .header_area.navbar_fixed .menu_seven .menu_toggle .hamburger span {
-  background: #4069eb;
+  background: #77A1A5;
 }
 
 .header_area.navbar_fixed .menu_eight .saas_btn {
@@ -2502,7 +2506,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .header_area.navbar_fixed .menu_eight .menu_toggle .hamburger span, .header_area.navbar_fixed .menu_eight .menu_toggle .hamburger-cross span {
-  background: #23b1fe;
+  background: #77A1A5;
 }
 
 .header_area.navbar_fixed .menu_nine .menu > .nav-item:hover > .nav-link, .header_area.navbar_fixed .menu_nine .menu > .nav-item.active > .nav-link {
@@ -2524,7 +2528,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .header_area.navbar_fixed .menu_nine .menu_toggle .hamburger-cross span, .header_area.navbar_fixed .menu_nine .menu_toggle .hamburger span {
-  background: #5f51fb;
+  background: #77A1A5;
 }
 
 .header_area.navbar_fixed.header_area_five .menu_one {
@@ -2611,7 +2615,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   -webkit-transform-origin: 0% 100%;
   -ms-transform-origin: 0% 100%;
   transform-origin: 0% 100%;
-  background: rgba(5, 20, 65, 0.98);
+  background:#77A1A5;
 }
 
 .hamburger-menu-wrepper .nav {

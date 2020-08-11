@@ -1,10 +1,11 @@
-import React, { Component } from 'react';
+import React, { Component, useState } from 'react';
 import { Link } from 'react-scroll';
 import Sticky from 'react-stickynode';
 
 class Menu extends Component {
     render() {
         var { mClass, nClass, cClass, slogo } = this.props;
+
         return (
             <Sticky top={0} innerZ={9999} activeClass="navbar_fixed">
                 <header className="header_area">
@@ -24,8 +25,8 @@ class Menu extends Component {
                                 </span>
                             </button>
                             <Link className={`navbar-brand ${slogo}`} to="/">
-                                <img src={require("../img/boubyanLogo.png")} width="50%" alt="" />
-                                <img src={require("../img/boubyanLogo.png")} width="50%" alt="logo" />
+                                <img style={{ margin: window.innerWidth < 768 ? "auto" : null }} src={require("../img/boubyanLogo.png")} width="50%" alt="" />
+                                <img style={{ margin: window.innerWidth < 768 ? "auto" : null }} src={require("../img/boubyanLogo.png")} width="50%" alt="logo" />
                             </Link>
                             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul className={`navbar-nav menu ml-auto ${nClass}`}>
