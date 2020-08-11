@@ -24,8 +24,8 @@ const Home = () => {
                         <References />
                     </> :
                     <div style={{ width: "100%", height: "100%", display: "flex", justifyContent: "center" }}>
-                        <div style={{ position: "absolute", top: "45%", textAlign: "center" }}>
-                            <img src={require('../img/boubyanLogo.png')} width="60%" className="loaderAnimation" />
+                        <div style={{ position: "absolute", top: "45%", right: "40%", textAlign: "center" }}>
+                            <img src={require('../img/boubyanLogo.png')} width="40%" className="loaderAnimation" />
                         </div>
 
                     </div>
