@@ -6,6 +6,7 @@ Please make sure you have Yarn and Node.js installed on your computer to ensure 
 
 # Steps:
 yarn install
+<br />
 yarn start
 
 
