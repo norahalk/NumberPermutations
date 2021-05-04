@@ -10,4 +10,4 @@ yarn install
 yarn start
 
 # If you wish to view and test the website, I have deployed it on Netlify:
-https://gallant-ride-23d083.netlify.app/
+https://permutations.netlify.app/
